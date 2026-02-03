@@ -74,6 +74,12 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 12,
         "participants": ["charlotte@mergington.edu", "henry@mergington.edu"]
+    },
+    "GitHub Skills": {
+        "description": "Learn practical coding and collaboration skills through GitHub's official certification program. Gain hands-on experience with version control, collaboration, and real-world software development practices. This activity is the first step toward earning GitHub Certifications, which can help with college applications.",
+        "schedule": "Mondays and Fridays, 3:30 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": []
     }
 }
 
